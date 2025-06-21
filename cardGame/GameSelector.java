@@ -38,7 +38,7 @@ public class GameSelector {
         System.out.print("Enter your choice: ");
         
         int choice = scanner.nextInt();
-        scanner.close();
+        
         return choice;
     }
 }
